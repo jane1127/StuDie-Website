@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StuDie Website HTML CSS JS | Codehal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="main">
+        <header class="header">
+            <a href="#" class="logo">StuDie.</a>
+
+            <nav class="navbar">
+                <a href="#" class="active">Home</a>
+                <a href="#">Keywords</a>
+                <a href="#">About</a>
+                <a href="#">Contact</a>
+            </nav>
+        </header>
+
+        <style>
+            body {
+                background-image: url(bg.jpg);
+                background-repeat: no-repeat;
+                margin: 10px 370px 0px 400px;
+            }
+            
+            h1 {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                background: -webkit-linear-gradient(rgb(133, 40, 151),  rgb(172, 61, 148));
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                font-size: 40px;
+                margin: 100px 10px 70px 110px;
+            }
+            
+            li {
+                 list-style: none;  
+                 font-family: 'Courier New', Courier, monospace;
+                 margin: 0px 0px 30px 0px;
+                font-size: 30px;
+            }
+            
+            .button {
+              background-image: url(df-removebg-preview.png);
+              box-shadow: 5px 3px 10px rgb(221, 97, 211);
+              border-radius: 0px;
+              color: rgb(221, 58, 253);
+              padding: 30px 200px 30px 220px;
+              border: none;
+              opacity: 0.6;
+              transition: 0.3s;
+              display: inline-block;
+              text-decoration: none;
+              cursor: pointer;  
+            }
+            
+            .button:hover {
+              opacity: 1
+            }
+            a:visited {
+              text-decoration: none;
+            }
+            a:hover {
+              text-decoration: none;
+            }
+            a:link {
+              text-decoration: none;
+            }
+            a:active {
+              text-decoration: none;
+            } 
+             
+            </style>
+            <body> 
+            <h1> <b>GRADE LEVEL:</b> </h1> 
+            <li id="g7"> <a href="g7.html" button class="button"> GRADE 7 </a></li>
+            <li id="g8"> <a href="g8.html" button class="button"> GRADE 8 </a></li>
+            <li id="g9"> <a href="g9.html" button class="button"> GRADE 9 </a></li>
+            <li id="g9"> <a href="g9.html" button class="button"> GRADE 10 </a></li>
+
+            <style>
+                body {
+                    background-image: url(bg.jpg);
+                    background-repeat: no-repeat;
+                    margin: 10px 370px 0px 400px;
+                }
+                
+                h1 {
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    background: -webkit-linear-gradient(rgb(133, 40, 151),  rgb(172, 61, 148));
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    font-size: 40px;
+                    margin: 100px 20px 20px 110px;
+                }
+                
+                p {
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                    background: -webkit-linear-gradient(rgb(172, 61, 148),  rgb(133, 40, 151));
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    font-size: 20px;
+                    margin: 0px 0px 20px 180px;
+                    letter-spacing: 10px;
+                }
+                
+                li {
+                     list-style: none;  
+                     font-family: 'Courier New', Courier, monospace;
+                     margin: 10px 0px 30px 0px;
+                     font-size: 20px;
+                }
+                
+                .button {
+                  background-image: url(df-removebg-preview.png);
+                  box-shadow: 5px 3px 10px rgb(221, 97, 211);
+                  border-radius: 10px;
+                  color: rgb(221, 58, 253);
+                  padding: 30px 200px 30px 220px;
+                  border: none;
+                  opacity: 0.6;
+                  transition: 0.3s;
+                  display: inline-block;
+                  text-decoration: none;
+                  cursor: pointer;  
+                }
+                
+                .button:hover {
+                  opacity: 1;
+                }
+                a:visited {
+                  text-decoration: none;
+                }
+                a:hover {
+                  text-decoration: none;
+                }
+                a:link {
+                  text-decoration: none;
+                }
+                a:active {
+                  text-decoration: none;
+                } 
+                
+                </style>
+                <body> 
+                <h1> <b>GRADE SEVEN  </b> </h1>
+                <p> QUARTER 1 </p>
+                <p>  LESSONS </p>
+                <li id="l1"> <a href="G7l1.html" button class="button"> LESSON 1 </a></li>
+                <li id="l2"> <a href="G7l2.html" button class="button"> LESSON 2 </a></li>
+                <li id="l3"> <a href="G7l3.html" button class="button"> LESSON 3 </a></li>
+                <li id="l4"> <a href="G7l4.html" button class="button"> LESSON 4 </a></li>
+                <li id="l5"> <a href="G7l5.html" button class="button"> LESSON 5 </a></li>
+                <li id="l6"> <a href="G7l6.html" button class="button"> LESSON 6 </a></li>
+                <li id="l7"> <a href="G7l7.html" button class="button"> LESSON 7 </a></li>
+                <li id="l8"> <a href="G7l8.html" button class="button"> LESSON 8 </a></li>
+                
+                <style>
+                    body {
+                        background-image: url(bg.jpg);
+                    }
+                    
+                    h1 {
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                        background: -webkit-linear-gradient(rgb(133, 40, 151),  rgb(172, 61, 148));
+                        -webkit-background-clip: text;
+                        -webkit-text-fill-color: transparent;
+                        font-size: 40px;
+                        margin: 100px 10px 70px 110px;
+                    }
+                    
+                    li {
+                       list-style: none;
+                       font-family: 'Courier New', Courier, monospace;
+                       font-size: 20px;
+                       margin: 0px 0px 40px 0px;
+                       padding: 0px 100px 0px 100px;
+                    }
+                    
+                    .button {
+                        background-image: url(df-removebg-preview.png);
+                        box-shadow: 5px 3px 10px rgb(221, 97, 211);
+                        color: rgb(221, 58, 253);
+                        border-radius: 40px;
+                        border: none;
+                        opacity: 0.6;
+                        transition: 0.3s;
+                        display: inline-block;
+                        text-decoration: none;
+                        cursor: pointer;
+                        padding: 30px 200px 30px 200px;  
+                    }
+                    
+                    .button:hover {
+                      opacity: 1;
+                    }
+                    a:visited {
+                      text-decoration: none;
+                    }
+                    a:hover {
+                      text-decoration: none;
+                    }
+                    a:link {
+                      text-decoration: none;
+                    }
+                    a:active {
+                      text-decoration: none;
+                    } 
+                    
+                     </style>
+                    <body>
+                    <h1> TYPES OF QUESTION: </h1>
+                    <ul>
+                    <li id="cbea"> <a href="g7.html" button class="button"> CBEA </a></li>
+                    <li id="l2"> <a href="g8.html" button class="button"> MULTIPLE CHOICE </a></li>
+                    <li id="l3"> <a href="g9.html" button class="button"> TRUE OR FALSE </a></li>
+                    <li id="l4"> <a href="g9.html" button class="button"> MODIFIED TRUE OR FALSE </a></li>
+                    <li id="l5"> <a href="g7.html" button class="button"> IDENTIFICATION</a></li>
+                    <li id="l6"> <a href="g8.html" button class="button"> ENUMERATION </a></li>
+                    </ul>
+
+            <section class="home">
+                <div class="home-content">
+                    <h1>StuDie Website</h1>
+                    <p>Available for all junior high school students, review yourself and get a perfect score in long quizzes and exams in Science subject!</p>
+                    <button class="start-btn">Start StuDying</button>
+                </div>
+            </section>
+            </div>
+    </main>
+
+    <div class="popup-info">
+        <h2>StuDie Guide</h2>
+        <span class="info">1. Go to the keywords section.</span>
+        <span class="info">2. Read the keywords or the definition of the lesson you want to review.</span>
+        <span class="info">3. Memorize the keywords and their meanings, and understand the lesson.</span>
+        <span class="info">4. If you are ready to take the questions to review, click "Start StuDying."</span>
+        <span class="info">5. Answer the questions correctly and get a perfect score.</span>
+
+        <div class="btn-group">
+            <button class="info-btn exit-btn">Exit StuDie</button>
+            <a href="gradelevel.html" class="info-btn continue-btn">Continue</a>
+        </div>
+    </div>
+
+    <script src="questions.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
